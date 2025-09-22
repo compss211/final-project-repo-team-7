@@ -3,4 +3,6 @@ Template repository for COMPSS-211 Final Projects
 ## Contributors
 
 ### Shreya Annamaneni
-Hi this is shreya.
+
+Hi this is Rachel
+>>>>>>> main
