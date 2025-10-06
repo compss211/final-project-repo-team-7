@@ -1,7 +1,7 @@
 [project]
 name = "nlp_us_presidents"
 version = "0.0.1"
-description = "Analyzes US presidential speeches using NLP methods to analyze trends in the definition of 'What it means to be an American' over time."
+description = "Analyzes US presidential speeches using NLP methods to identify trends in the definition of 'What it means to be an American' over time."
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = []
