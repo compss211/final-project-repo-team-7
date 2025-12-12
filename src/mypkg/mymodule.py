@@ -1,3 +1,3 @@
 def test():
-    print("Hello world! I speak English and Python!")
+    print("Hello world!")
 

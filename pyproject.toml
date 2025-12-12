@@ -1,7 +1,7 @@
 [project]
-name = "nlp_us_presidents"
+name = "mypkg"
 version = "0.0.1"
-description = "Analyzes US presidential speeches using NLP methods to identify trends in the definition of 'What it means to be an American' over time."
+description = "Final Project Group Repository for COMPSS-211"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = []

@@ -1,6 +1,3 @@
-# Folder of json files containing speech data
-data/speeches/
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
