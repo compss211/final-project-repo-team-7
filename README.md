@@ -214,8 +214,7 @@ All analysis code lives in `notebooks/`. They can be run independently if the da
    pip install -r requirements.txt
    ```
 
-   *(If you do not have a `requirements.txt`, you will need packages like `pandas`, `numpy`, `matplotlib`, `scikit-learn`, `spacy`, `vaderSentiment`, and `sentence-transformers`.)*
-
+   
 2. **Create `all_speeches.csv`**
    If you want to rebuild the main dataframe from raw files:
 
