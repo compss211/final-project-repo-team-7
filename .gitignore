@@ -1,3 +1,5 @@
+.env
+
 # Folder of json files containing speech data
 data/speeches/
 

@@ -1,0 +1,7 @@
+,category,words
+0,white_american,"['white', 'whites', 'white man', 'white male', 'anglo saxon', 'caucasian']"
+1,black_american,"['black', 'blacks', 'negro', 'negroes', 'african american', 'african americans’, ‘mulattoes’, 'colored', 'colored persons', 'colored people’, 'freedmen']"
+3,asian_american,"['asian', 'asiatic', 'asian american’, 'chinese coolie', 'chinese laborer', 'educated chinese', 'chinaman', ‘coolie']"
+5,hispanic_latino,"['hispanic', 'hispanic american', 'latino', 'latinos', 'latina']"
+6,native_american,"['native', 'native american', 'american indian', 'indian', 'indians', 'alaskan indian', 'aborigine', 'aboriginal', 'red man’, 'six nations', 'cherokee', 'cherokees', 'chickasaw', 'choctaw', 'creek', 'muscogee creek', 'five civilized', 'seminole', 'tonkawa', 'wichita', 'piankeshaw', 'shawanese', 'nez perce', 'sioux', 'kickapoo', 'metlakahtla indian', 'mosquito indian’, ‘savage’, ‘savages’]"
+9,general_groupings,"['minority', 'minorities', 'minority group’, ‘people of color', 'non white’]"
