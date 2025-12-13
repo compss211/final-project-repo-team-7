@@ -109,6 +109,7 @@ All main data files live in `data/`. Here is how each one is used.
   * VADER sentence sentiment over time
   * some demographic matching
 
+Created with: create_dataframe.py script 
 
 * **`demographic_group_american_nonamerican_similarity_results.csv`**
   Output from the embedding analysis using all-MiniLM. Contains similarity scores between each demographic group and in-group vs out-group adjective vectors, plus the “net difference” metric.
@@ -118,15 +119,9 @@ All main data files live in `data/`. Here is how each one is used.
 
 * **`in_group_words_key.csv`**
   Mapping of in-group adjectives to higher-level identity themes. Each row has a theme name and a list of adjectives that fall under that theme.
-  Used in:
-
-  * LLM adjective theme analysis for Americans (e.g., Principled, Resilient, Collaborative)
 
 * **`out_group_words_key.csv`**
   Mapping of out-group adjectives to themes. Same format as the in-group file.
-  Used in:
-
-  * LLM adjective theme analysis for “anti-American” or out-group traits (e.g., Corrupt, Violent, Divisive)
 
 * **`sample_speeches_llm_enriched.csv`**
   LLM-enriched 20% sample of speeches. Contains:
@@ -134,7 +129,7 @@ All main data files live in `data/`. Here is how each one is used.
   * lists of in-group adjectives
   * lists of out-group adjectives
   * demographic group mentions (from LLM prompts)
-    This is the “raw” LLM output before we simplified and subsetted it.
+    This is the “raw” LLM output 
     
 * **`_20_percent_sample.csv`**
   Clean 20% random sample of speeches derived from `sample_speeches_llm_enriched.csv` with a simplified set of columns.
