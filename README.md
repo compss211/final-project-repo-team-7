@@ -3,7 +3,9 @@ Template repository for COMPSS-211 Final Projects
 
 ## Contributors
 Willow McLarney
+
 Shreya Annamaneni
+
 Rachel Avram
 
 ## Statement of Purpose
